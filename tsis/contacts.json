@@ -1,0 +1,42 @@
+[
+    {
+        "name": "ali",
+        "email": "zhanik@gmail.com",
+        "birthday": "2006-07-06",
+        "phone": null,
+        "type": null,
+        "group": null
+    },
+    {
+        "name": "Ali",
+        "email": "ali@gmail.com",
+        "birthday": "2005-04-12",
+        "phone": "87011111111",
+        "type": "mobile",
+        "group": "Friend"
+    },
+    {
+        "name": "Askar",
+        "email": "askar@gmail.com",
+        "birthday": "2004-09-18",
+        "phone": "87022222222",
+        "type": "home",
+        "group": "Family"
+    },
+    {
+        "name": "Askar",
+        "email": "askar@gmail.com",
+        "birthday": "2004-09-18",
+        "phone": "87022222222",
+        "type": "home",
+        "group": "Family"
+    },
+    {
+        "name": "Dana",
+        "email": "dana@gmail.com",
+        "birthday": "2003-01-25",
+        "phone": "87033333333",
+        "type": "work",
+        "group": "Family"
+    }
+]

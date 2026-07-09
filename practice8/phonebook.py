@@ -108,7 +108,7 @@ def show_page():
         print("No contacts.")
 
 
-# Update contact (оставляем из Practice 7)
+# Update contact
 def update_contact():
     old_name = input("Contact name: ")
 
